@@ -12,23 +12,24 @@
 - Eigenes Plugin mit Grundfunktionen: User-Management, Taste-Quiz, Social Login
 - Google Login mit Nextend Social Login erfolgreich eingerichtet
 - Quiz & Willkommensseite als eigene Seiten, nicht im Menü sichtbar
-- Weiterleitung nach Login zum Quiz, nach Quiz zur Home-Seite (Button/JavaScript)
+- Weiterleitung nach Login zum Quiz, nach Quiz zur Home-Seite (Button/JavaScript/Shortcode)
+- Plugin-Ordner „flavor-twist“: enthält flavor-twist.php, class-user-management.php, templates/welcome.php, etc.
 - Repo flavor-twist auf GitHub, Dokumentation in KONZEPT.md & PROGRESS.md
 
 ## Features umgesetzt
-- Menü/Fußzeile/Startseite gebaut
+- Menü, Fußzeile & Startseite gebaut
 - Social Login (Google) läuft
 - User-Flow: Login → Quiz → Home funktioniert
-- Quiz nur für eingeloggte Nutzer sichtbar
+- Quiz nur für eingeloggte Nutzer sichtbar (Shortcode [flavor_twist_taste_quiz])
 - Dokumentation im Repo angelegt
 
 ## Nächste Schritte (offen)
-- Quiz-Weiterleitung zur Home-Seite finalisieren
+- Quiz-Weiterleitung zur Home-Seite finalisieren (Button/JS im Plugin-Shortcode-Code)
 - Zugriffsschutz für bestimmte Seiten (nur eingeloggte User)
 - Design/UX optimieren (Farben, mobile Ansicht, Buttons)
-- Datenschutz/DSGVO ergänzen
+- Datenschutz/DSGVO ergänzen (Hinweis und Datenschutzerklärung)
 - Dashboard für eingeloggte User bauen
 - Gamification, Rezept-Upload, Restaurant-Dashboard, Live-Suche etc.
 
 **Hinweis:**  
-Diese Datei kannst du jederzeit ins Repo hochladen oder mir schicken, um den Stand wiederherzustellen!
+Diese Datei kannst du täglich updaten und ins Repo hochladen oder mir schicken, um den Stand wiederherzustellen!
