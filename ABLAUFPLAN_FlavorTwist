@@ -1,0 +1,71 @@
+# Projektablaufplan – FlavorTwist Web-App
+
+**Ziel:**  
+Gemeinsam Schritt für Schritt eine Food-Web-App mit HTML, CSS und JavaScript bauen – für absolute Anfänger, einfach und verständlich.
+
+---
+
+## 1. Vorbereitung: Was brauchst du zum Start?
+
+- **Computer** (Windows, Mac oder Linux)
+- **Internet-Browser** (z.B. Chrome, Firefox, Edge, Safari)
+- **Code-Editor** (Empfehlung: Visual Studio Code, kostenlos)
+- **Lokaler Projektordner** (wird gemeinsam angelegt)
+- **Basiswissen:** Keine Vorkenntnisse nötig! Alle Schritte werden erklärt.
+
+---
+
+## 2. Ablaufplan – Schritt für Schritt
+
+1. **Projektordner lokal anlegen**
+   - Ein Ordner auf deinem Computer, in dem alle Dateien liegen
+
+2. **Editor installieren und öffnen**
+   - Visual Studio Code herunterladen und den Projektordner öffnen
+
+3. **Erste Dateien erstellen**
+   - index.html (Startseite)
+   - style.css (Design)
+   - script.js (Logik/Interaktivität)
+
+4. **Startseite bauen**
+   - Grundgerüst mit Überschrift und Link zum Quiz
+
+5. **Quiz-Seite bauen**
+   - Formular mit Schiebereglern und Button
+
+6. **Design hinzufügen**
+   - Farben, Abstände, Buttons schöner machen
+
+7. **Interaktivität einbauen**
+   - Nach Quiz-Abschluss automatische Weiterleitung zur Startseite
+
+8. **Testen im Browser**
+   - Öffnen und ausprobieren
+
+9. **Dashboard/Weitere Seiten bauen**
+   - Schrittweise neue Features ergänzen (Profil, Rezepte, Community, Restaurant-Dashboard)
+
+10. **Später: Veröffentlichen**
+    - Wenn alles fertig ist, geht die Seite ins Internet
+
+---
+
+**Hinweis:**  
+Wir machen wirklich alles Schritt für Schritt.  
+Du bekommst immer nur den nächsten kleinen Schritt erklärt und erledigst ihn, bevor wir weitermachen.  
+Fragen jederzeit erlaubt – wir bauen das gemeinsam!
+
+---
+
+## Was brauchst du jetzt zum Start?
+
+- Computer
+- Internet-Browser
+- Visual Studio Code (VS Code) installiert
+- Einen leeren Ordner (z.B. „FlavorTwist“) auf deinem Rechner
+
+---
+
+**Wenn du alles bereit hast, sag Bescheid!  
+Dann starten wir mit dem ersten Schritt: Projektordner anlegen und VS Code öffnen.**
